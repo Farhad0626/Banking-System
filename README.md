@@ -758,7 +758,7 @@ Internal ids are database details that customers never see. People transfer to a
 
 ## 📄 License
 
-No license file is defined in the project root yet. Until one is added, ask the project owner about usage and redistribution rights.
+MIT License
 
 <div align="center">
 
